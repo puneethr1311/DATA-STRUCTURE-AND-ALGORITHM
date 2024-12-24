@@ -1,0 +1,1 @@
+{"name":"Local: dice_combination","url":"/Users/puneetsharma/IMP_DOCS/CSES/dice_combination.cpp","tests":[{"id":1732012048030,"input":"3","output":"4"},{"id":1732012174856,"input":"50","output":"660641036"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/puneetsharma/IMP_DOCS/CSES/dice_combination.cpp","group":"local","local":true}

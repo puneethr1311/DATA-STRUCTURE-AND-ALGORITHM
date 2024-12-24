@@ -1,0 +1,1 @@
+{"name":"Local: building_teams","url":"/Users/puneetsharma/IMP_DOCS/CSES/building_teams.cpp","tests":[{"id":1732541432148,"input":"5 3\n1 2\n1 3\n4 5","output":"1 2 2 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/puneetsharma/IMP_DOCS/CSES/building_teams.cpp","group":"local","local":true}

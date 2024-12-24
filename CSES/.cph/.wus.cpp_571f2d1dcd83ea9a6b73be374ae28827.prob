@@ -1,0 +1,1 @@
+{"name":"Local: wus","url":"/Users/puneetsharma/IMP_DOCS/CSES/wus.cpp","tests":[{"id":1729666266717,"input":"6\n13\n2 3 5 8 9 10","output":"3 10 \n5 8"},{"id":1729666271568,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/puneetsharma/IMP_DOCS/CSES/wus.cpp","group":"local","local":true}
