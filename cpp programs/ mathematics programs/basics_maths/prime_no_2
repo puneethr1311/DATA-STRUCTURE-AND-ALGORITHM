@@ -1,0 +1,37 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<numeric>
+#include<climits>
+#include<string>
+#include<utility>
+#include<set>
+#include<map>
+#include<stack>
+#include<queue>
+#include<unordered_map>
+#include<unordered_set>
+#include<cmath>
+#include<functional>
+#include<deque>
+#include<list>
+#include<chrono>
+                    
+using namespace std ; 
+                 
+int main(){ 
+    int num;
+    cin>>num;
+    int strt =2 ;
+    int val = sqrt(num);
+    while(strt<=val){
+        if(num%strt==0){
+            cout<<"not prime";
+            return 0;
+        }
+        strt++;
+    }
+    cout<<"prime";
+
+    return 0 ;
+}
